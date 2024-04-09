@@ -1,0 +1,23 @@
+Socket Programming:
+1. Establish a socket connection between a Server and a Client, and print the date and time in C or Java or Python.
+2. Implement stop and wait protocol.
+3. Write a TCP client server program to send hello message from client  to server. Server reverses the message and sends back to client. Client print the reversed message. 
+4. Write a UDP client server message where the client sends a file to the server. The server reads the content of the file and prints it on the console. 
+5. Write a TCP client server message where the client sends a file to the server. The server reads the content of the file and prints it on the console. 
+6. Write a  TCP client server program where client will send an input file to the server. Inside that input file a sentence will be there. After receiving the file server reverse individual word of that sentence and write it into another file and reply back that new file to the client. Client will read the file and print the content of the file on the console.
+7. Write a client server program where the client will transmit hello message to the server. Server will print it. Then server will reverse the hello message and send it back to client. 
+8. Write a client server program where the client will transmit a number to the server. Server will test whether the number is prime or not. Then server will send the result of the test to client. Then Client will print the output.
+9. Write a C program to implement parity checker for error detection for both the sender and receiver side
+10. Write a C program to implement checksum for error detection for both the sender and receiver side
+11. Write a C program to implement CRC for error detection for both the sender and receiver side.
+
+Packet Tracer:
+1.Take 2 routers which has 4 PC’s connected to each respectively  and connect them so data can be passed along all the PC’s without any interruption.
+2.Configure a LAN connection where IP of a PC’s is not to be provided statically.
+3.Configure a LAN where the ip can be provided dynamically and statically.
+4.Configure a WAN using RIP protocol, you have to use 3 routers.
+5.Configure a WAN where the routing table can be updated automatically.
+
+Instruction for the Assignment related to Packet Tracer:
+a) For the questions related to Packet Tracer provide printout as output.
+b) Write each step in details. 
